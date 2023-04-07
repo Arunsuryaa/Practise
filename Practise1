@@ -110,5 +110,9 @@ System.out.println("Total number of vowels:"+count);
     }
 }
 
+class primenumber{
+public static void main(String[] args){
+}
+}
 
 
